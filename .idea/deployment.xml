@@ -10,27 +10,6 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="root@100.127.3.109:22 agent (2)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_8272a359" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="root@100.127.3.109:22 agent (3)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_8272a359" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="zhong@100.127.3.109:22 agent">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_8272a359" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
     </serverData>
     <option name="myAutoUpload" value="ALWAYS" />
   </component>

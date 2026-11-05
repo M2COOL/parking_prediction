@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104f905f-9f89-4a5d-9c00-e7b1c538a175" name="Changes" comment="添加金鹰停车场数据">
+    <list default="true" id="104f905f-9f89-4a5d-9c00-e7b1c538a175" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/parking_prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/parking_prediction.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/chronos_real_parking.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/chronos_real_parking.ipynb" afterDir="false" />
     </list>
@@ -119,7 +117,7 @@
       <workItem from="1793687549323" duration="1833000" />
       <workItem from="1793690144555" duration="1802000" />
       <workItem from="1793776290886" duration="1760000" />
-      <workItem from="1793778090359" duration="5805000" />
+      <workItem from="1793778090359" duration="10554000" />
     </task>
     <task id="LOCAL-00001" summary="创建chronos测试">
       <option name="closed" value="true" />
@@ -153,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793784043079</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1793785143750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1793785143750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +169,7 @@
     <MESSAGE value="创建chronos测试" />
     <MESSAGE value="初次跑通数据" />
     <MESSAGE value="添加金鹰停车场数据" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加金鹰停车场数据" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
